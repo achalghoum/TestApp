@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\chalg\\source\\repos\\TestApp\\TestApp\\example.csv\r\nC:\\Users\\chalg\\source\\repos\\TestApp\\TestApp\\result.csv"
+    }
+  }
+}
